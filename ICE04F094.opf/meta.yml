@@ -1,0 +1,28 @@
+id: ICE04F094
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:05:25.400060'
+last_modified: '2022-06-05T20:05:25.400068'
+parser: null
+source_metadata:
+  title: Tashi Tobgyal
+  language: bo
+  description: Tashi Tobgyal (bkra shis stobs rgyal, 1550?–1603) is an important figure
+    in the lineage of the Northern Treasures (byang gter). He was the reincarnation
+    of Ngari Paṇchen Pema Wangyel (1487–1542) and the father of Rigdzin Ngakgi Wangpo
+    (1580–1639), who founded the monastery of Dorje Drak.
+  volume:
+    fF085:
+      title: 'A Stream of Blessing: Verses of Supplication to the Accomplished Holders
+        of Mantra who Gained Realization in this Snowy Land of Tibet'
+      base_file: fF085.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
